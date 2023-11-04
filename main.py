@@ -8,6 +8,7 @@ class MainWindow(QWidget):
         self.show()
 
 mw = MainWindow()
+mw.setWindowTitle('Rufye')
 
 
 
